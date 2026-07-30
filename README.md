@@ -21,15 +21,13 @@ Make sure you have **Python 3** installed on your system (works out of the box o
 ### Installation & Execution
 
 1. Clone or download the script into your working directory:
-   ```Bash
-   git clone https://github.com/kebron-nf/first-/blob/main/subnet3_tool.py
-   ```
+```Bash
+   git clone https://github.com/kebron-nf/subnet-calculator/blob/main/subnet.py
+```
 Run the tool:
-   ```Bash
-
-    python3 subnet_tool.py
-
-   ```
+```Bash
+   python3 subnet_tool.py
+```
 🎮 How to Use
 
 When you launch the script, you will be greeted with an interactive menu:
